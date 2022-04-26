@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "jy7sd7zP7R5d6AG3TVb5Kjh6rlMe8ULUHNGPa6TrvV4Yu/KOVh+mScmBQU4tEHOyzLs6S5YLMo+K9rWkYC/E/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aldo Cahyadi\\OneDrive\\Documents\\GitHub\\UTS-Grafkom\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk\\4.4.0\\opentk.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.compute\\4.4.0\\opentk.compute.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.core\\4.4.0\\opentk.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.graphics\\4.4.0\\opentk.graphics.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.input\\4.4.0\\opentk.input.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.mathematics\\4.4.0\\opentk.mathematics.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.openal\\4.4.0\\opentk.openal.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.windowing.common\\4.4.0\\opentk.windowing.common.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.windowing.desktop\\4.4.0\\opentk.windowing.desktop.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.4.0\\opentk.windowing.graphicslibraryframework.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Aldo Cahyadi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

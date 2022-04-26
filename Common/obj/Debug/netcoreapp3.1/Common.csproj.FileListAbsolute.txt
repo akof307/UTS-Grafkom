@@ -1,0 +1,29 @@
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\ASUS\Documents\UKPetra\Semester4\Grafkom\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Aldo Cahyadi\OneDrive\Documents\GitHub\UTS-Grafkom\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
